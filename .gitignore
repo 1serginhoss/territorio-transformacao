@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv_*/
+.env
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Service Account - ⚠️ IMPORTANTE!
+service_account.json
+*.json
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Arquivos extras que não devem subir
+app_pibit.py
+jmm.py
+kdz.html
+kpt.html
+llt.html
+map.js
+modelo.py
+oball2.py
+pibit.py
+pxq.html
+setup.sh
+pyvenv.cfg
