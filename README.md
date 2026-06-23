@@ -5,6 +5,7 @@ Plataforma de Planejamento Territorial e Gestão Sustentável para Santa Luzia -
 ## 📊 Sobre o Projeto
 
 O **Território em Transformação** é uma plataforma digital interativa desenvolvida por alunos do **Centro Educa Mais José Mariano Muniz** para análise das transformações ambientais e uso da terra no município de Santa Luzia - Maranhão.
+
 Desenvolvido por alunos do Centro Educa Mais José Mariano Muniz
 Orientador: Prof. Geomar de Sousa Silva
 
